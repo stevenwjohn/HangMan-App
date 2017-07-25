@@ -1,0 +1,15 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 769 600">
+  <defs>
+    <style>.cls-1,.cls-2,.cls-4{fill:none;}.cls-1,.cls-4,.cls-5{stroke:#000;}.cls-1,.cls-2,.cls-4,.cls-5{stroke-miterlimit:10;}.cls-1,.cls-5{stroke-width:12px;}.cls-2{stroke:#f7931e;}.cls-2,.cls-4{stroke-width:10px;}.cls-3{fill:#f7931e;}.cls-5{fill:#fff;}</style>
+  </defs>
+  <title>t3 4</title>
+  <line class="cls-1" x1="518.12" y1="354" x2="517.68" y2="267.93"/>
+  <path class="cls-2" d="M541,158.64c42.67,29.33,0,172.67-51.79,91.65C444.51,166.49,505.71,138.64,541,158.64Z"/>
+  <line class="cls-2" x1="516.88" y1="150.87" x2="517.62" y2="99.2"/>
+  <path class="cls-3" d="M513,153.07h12.91c5.23,0,10.24-4.6,10-10a10.17,10.17,0,0,0-10-10H513c-5.23,0-10.24,4.6-10,10a10.17,10.17,0,0,0,10,10Z"/>
+  <path class="cls-3" d="M509,133.8l10.74,5.37c4.67,2.34,11,1.4,13.68-3.59,2.39-4.53,1.41-11.18-3.59-13.68l-10.74-5.37c-4.67-2.34-11-1.4-13.68,3.59C503,124.65,504,131.3,509,133.8Z"/>
+  <line class="cls-1" x1="320.59" y1="498.22" x2="320.59" y2="101.78"/>
+  <line class="cls-4" x1="114.5" y1="498.22" x2="623.5" y2="498.22"/>
+  <line class="cls-4" x1="522.59" y1="102.22" x2="314.59" y2="102.22"/>
+  <circle class="cls-5" cx="517.69" cy="213.43" r="50.01"/>
+</svg>

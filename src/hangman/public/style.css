@@ -1,0 +1,10 @@
+ .headimg {
+  margin-left: 33.333333%;
+  margin-right: 33.333333%;
+}
+
+body {
+  background-image: url('./images/background.svg');
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
